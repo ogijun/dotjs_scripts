@@ -6,4 +6,5 @@
     $('#coupon_restaurants').hide();
     $('.areamatch-box').hide();
     $('#areamatch-box').hide();
-}())
+    $('#targeting_restaurants').hide();
+}());
